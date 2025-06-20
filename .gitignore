@@ -1,0 +1,40 @@
+# Node
+/node_modules
+.npm
+.env
+
+# Expo
+.expo/
+*.jks
+*.p12
+*.key
+*.keystore
+
+# Android
+/android/
+/build/
+.gradle
+.idea/
+local.properties
+captures/
+.externalNativeBuild
+.cxx/
+*.iml
+
+# iOS
+/ios/
+/build/
+build/
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+Pods/
+.xcode.env.local
+
+# VS Code
+.vscode/
+
+# IDE (e.g., WebStorm/IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
